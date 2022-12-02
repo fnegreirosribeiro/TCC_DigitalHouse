@@ -6,4 +6,6 @@ Using a large dataset from the Brazilian government, our group used Machine Lear
 
 The main goal was to detect as many infected people as possible, since positive cases must be taken care of from a possible second infection in the future, thus avoiding hemorrhagic dengue.
 
-This work was presented in August of 2022.
+This work was presented in August of 2022. 
+
+Note that the notebook is in Spanish. Also, since the dataset is huge, I did not uploaded it here, the link to it is in the notebook.
